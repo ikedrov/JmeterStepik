@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1677695463282,427,HTTP Request[1],200,OK,Thread Group 1-1,text,true,,138316,226,1,1,https://ru.wikipedia.org/wiki/Заглавная_страница,283,0,220
+1677695463711,602,HTTP Request[2],200,OK,Thread Group 1-1,text,true,,55264,277,1,1,https://ru.wikipedia.org/w/index.php?search=&title=Служебная%3AПоиск&go=Перейти,597,0,0
